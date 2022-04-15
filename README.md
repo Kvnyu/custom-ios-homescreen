@@ -12,3 +12,6 @@ assets and code for my custom ios homescreen
  - You can use the icons in assets with shortcuts to create custom app icons
  - You can use the background in assets for your background
  - Create a shortcut that opens up the Apple weather app and call it `open-weather`
+
+## Example
+![Example image](/example.jpeg?raw=true)
