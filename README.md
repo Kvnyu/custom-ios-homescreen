@@ -15,4 +15,3 @@ assets and code for my custom ios homescreen
 
 ## Example
 <img src="https://raw.githubusercontent.com/Kvnyu/custom-ios-homescreen/master/example.jpeg" width="400">
-![Example image](/example.jpeg?raw=true)
